@@ -1,0 +1,2 @@
+# djangoapp
+ following coreys tutorial
